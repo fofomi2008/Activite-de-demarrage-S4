@@ -4,7 +4,8 @@ Trouvez 3 exemples de Web apps en liens avec le journalisme. Vous expliquerez da
 Propositions de web apps en lien avec le journalisme
 =
 
-Sens critique (www.senscritique.com)
+1. Sens critique (www.senscritique.com)
+----------------------------------------
 
 
 <ol> cette application a pour but de passer les informations au crible des critiques des internautes. il peut aider à sélectionner les meilleurs 
