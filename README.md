@@ -8,4 +8,11 @@ Propositions de web apps en lien avec le journalisme
 ----------------------------------------
 
 
-<ol> cette application a pour but de passer les informations au crible des critiques des internautes. il peut aider à sélectionner les meilleurs 
+<ol> cette web application a pour but de passer les informations au crible des critiques des internautes. il peut aider à sélectionner les meilleurs 
+
+
+2. (en cours)
+------------- 
+
+3. (en cours)
+-------------
