@@ -11,7 +11,7 @@ Propositions de web apps en lien avec le journalisme
 <ol> cette web application a pour but de passer les informations au crible des critiques des internautes. il peut aider à sélectionner les meilleurs </ol> 
 
 
-2. (en cours)
+2. Jouney (http://2appstudio.com/journey/web/)
 ------------- 
 
 3. (en cours)
